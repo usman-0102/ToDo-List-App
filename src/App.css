@@ -2,11 +2,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .App {
   text-align: center;
 }
 html{
-  background-color:rgb(167, 194, 243)
+  background-color:rgb(252, 252, 252)
 }
 /* 
 
